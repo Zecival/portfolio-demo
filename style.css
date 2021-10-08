@@ -78,3 +78,10 @@ li {
     height: 105px;
     width: 105px;
 }
+
+.containerM{
+    text-align: center;
+}
+.cat-img{
+    border-radius: 20%;
+}
