@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
 body {
     color: rgb(255, 255, 255);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -82,12 +82,16 @@ li {
 
 .containerM{
     text-align: center;
-    font-family: 'Bebas Neue', cursive;
-    font-size: 1.2em;
-    color: antiquewhite;
+    font-family: 'Lilita One', cursive;
+    font-size: 1.3em;
+    color: rgb(1, 199, 248);
     border-bottom: solid;
     border-top: solid;
+    cursor: url(img/pngegg.png), pointer;
 }
 .cat-img{
     border-radius: 20%;
+}
+.cat-img:hover{
+    border: 2px solid rgb(60, 255, 0);
 }
